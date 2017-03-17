@@ -1,0 +1,233 @@
+﻿<project version="2.2" name="质监APP项目0.5" ID="56546154-9500-43D3-9EB2-93C446EE8833">
+  <params>
+    <pageParam version="4.4" minAllowVersion="4.3"/>
+    <projectParam version="2.2" minAllowVersion="2.2" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily=""/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <modules>
+    <page name="主控页" ID="AF73FCB1-8E9E-42AE-996B-A96A6DD0F469" expanded="True" code="SrfRVZPbef" thumbCode="SrfRVZPbef" status="psWhite">
+      <images>
+        <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+        <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        <image key="615B15167CD323955BBB9F6388E912C8.svg"/>
+        <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+        <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+        <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+        <image key="D5D3464451B9BAF55DF14D8D7B1708D7.png"/>
+        <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+        <image key="5F6EBF19F601F827DCABF6CF0C739C0A.svg"/>
+        <image key="A4B149ECD5D3E3D14B03B773B9046E9D.png"/>
+      </images>
+    </page>
+    <module name="隐患控制台" ID="4AD6405D-7DF1-4F4F-859C-6050C8400A33" expanded="True" status="psWhite">
+      <page name="隐患控制台" ID="B87938C7-B432-4A07-AD73-3A3054FB481D" expanded="False" code="Y5Y3NxFiZd" thumbCode="Y5Y3NxFiZd" status="psWhite">
+        <images>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="9079F58C421DAE3BC74230832347073C.svg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        </images>
+      </page>
+      <page name="项目名称列表" ID="26F436D8-D8F2-44F9-B2C0-6CE6E03AE01E" expanded="False" code="xk23gPjiPH" thumbCode="xk23gPjiPH" status="psWhite">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+        </images>
+      </page>
+      <page name="通州项目隐患控制台" ID="820A728A-31CD-43EE-9EAC-381DA4FB8B24" expanded="False" code="j2zR21mE8H" thumbCode="j2zR21mE8H" status="psWhite">
+        <images>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="9079F58C421DAE3BC74230832347073C.svg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        </images>
+      </page>
+      <page name="隐患" ID="7EB3CA21-9EE8-4F73-AE1F-19E3823840A7" expanded="False" code="fplrtCgyWa" thumbCode="fplrtCgyWa" status="psWhite">
+        <images>
+          <image key="61BD02E428D58BDC0C6C834D31DCB6EF.png"/>
+          <image key="03D8B8681B566FCD80160E878EC374B8.png"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="8FF8BA6C0EDBCFC18155A1C61156A8B0.png"/>
+        </images>
+      </page>
+      <page name="隐患详细" ID="FCB3726D-0377-4903-A3B8-68EC63418294" expanded="True" code="ejMgILmbE9" thumbCode="ejMgILmbE9" status="psWhite">
+        <images>
+          <image key="2EB38A772225BC5EE0F8BE6D66129A4E.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+          <image key="803BB080D496557E1571D4C1BD65E983.png"/>
+        </images>
+      </page>
+      <page name="隐患图片" ID="DC94A9A6-E875-45E0-848D-B1213BDEB55E" expanded="True" code="aIix6OKYcs" thumbCode="aIix6OKYcs" status="psWhite">
+        <images>
+          <image key="1897BA3139FFBEB6F5E9ECA5352C60A5.png"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+        </images>
+      </page>
+    </module>
+    <module name="查询统计" ID="EE82A4D2-77AD-4351-B78E-1714F43ACCD0" expanded="True" status="psWhite">
+      <page name="查询结果页面" ID="4F2E09C5-CA63-4E3A-AE61-1853B8429A00" expanded="True" code="DEeX4qA8pj" thumbCode="DEeX4qA8pj" status="psWhite">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+        </images>
+      </page>
+      <page name="查询列表页" ID="0A83665F-8E79-47DD-AD5A-5C7AFD19D328" expanded="True" code="OgITsFNKMk" thumbCode="OgITsFNKMk" status="psWhite">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+        </images>
+      </page>
+      <page name="查询结果页面1" ID="8C21ED12-40FA-440D-9C23-223ACF880D43" expanded="True" code="heiwFEYPnL" thumbCode="heiwFEYPnL" status="psWhite">
+        <images>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        </images>
+      </page>
+      <page name="考核单位查询页面" ID="DFC0595A-AEDB-4E78-8E20-F892D203E331" expanded="True" code="qTEJ3h5zc7" thumbCode="qCWFIcFv2m" status="psWhite">
+        <images>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        </images>
+      </page>
+      <page name="查询列表页2" ID="E5BE3C48-1D2A-43D8-9EA0-C5F67A9CB21B" expanded="True" code="SuqxOb1oo8" thumbCode="SuqxOb1oo8" status="psWhite">
+        <images>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          <image key="0156C11AC117F811C1FF78AE72E9FBB1.svg"/>
+          <image key="075A4B9369EA18AF2016B6E029113F5D.svg"/>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="8C2321A4F44157FF507CCDFBAE78BC8D.svg"/>
+          <image key="A4119464B27904BB6FD0CFE2DF107D3E.svg"/>
+          <image key="FF13A2B19CD46C223D9946FB8B96A233.svg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="551060416EB94163FAC0B78B8533586E.svg"/>
+          <image key="436D825518C0D75E37EA705025E4825E.svg"/>
+        </images>
+      </page>
+      <page name="查询列表页1" ID="10F24155-F979-4F6F-80F5-973C418F8FBB" expanded="False" code="khfRIlWpHx" thumbCode="khfRIlWpHx" status="psWhite">
+        <images>
+          <image key="0156C11AC117F811C1FF78AE72E9FBB1.svg"/>
+          <image key="075A4B9369EA18AF2016B6E029113F5D.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="8C2321A4F44157FF507CCDFBAE78BC8D.svg"/>
+          <image key="A4119464B27904BB6FD0CFE2DF107D3E.svg"/>
+          <image key="FF13A2B19CD46C223D9946FB8B96A233.svg"/>
+          <image key="551060416EB94163FAC0B78B8533586E.svg"/>
+          <image key="436D825518C0D75E37EA705025E4825E.svg"/>
+        </images>
+      </page>
+    </module>
+    <module name="验收标准" ID="9908CE47-C167-4B1A-BE20-DB47846F2A77" expanded="True" status="psWhite">
+      <page name="验收标准" ID="D5C09F56-0F35-4B6D-94E2-3A7625FE0C15" expanded="True" code="7O1t2Og2R4" thumbCode="7O1t2Og2R4" status="psWhite">
+        <images>
+          <image key="71E72E708716630A1ADD6F4E51FD7739.jpg"/>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="B487C7AB8A144BCF44AC6C72E13ADCF6.png"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="9079F58C421DAE3BC74230832347073C.svg"/>
+          <image key="6D635DE2A139BC34418F5B6EF9A13941.jpg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+        </images>
+      </page>
+    </module>
+    <module name="项目信息" ID="E0C4B572-E2CE-4DB1-AC4C-6924D0D057E9" expanded="True" status="psWhite">
+      <page name="项目信息" ID="BC05AF18-BCD8-4F63-8591-5FF7EA6001CB" expanded="False" code="25rBeunoFw" thumbCode="25rBeunoFw" status="psWhite">
+        <images>
+          <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+          <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+          <image key="2EB38A772225BC5EE0F8BE6D66129A4E.svg"/>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+          <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="9079F58C421DAE3BC74230832347073C.svg"/>
+          <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+          <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+          <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+          <image key="803BB080D496557E1571D4C1BD65E983.png"/>
+        </images>
+      </page>
+      <page name="项目查询" ID="DFDE6E28-9926-41EE-93F4-1E79851BCC5D" expanded="False" code="RnCqyjdk6u" thumbCode="8pByy6661U" isLastOpen="True" status="psWhite">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+        </images>
+      </page>
+    </module>
+  </modules>
+  <masters>
+    <master name="母版" ID="916FA984-3609-491F-9E78-971D1253C4AC" status="psWhite" createDate="2017-01-12 18:23:21">
+      <refPages>
+        <page ID="AF73FCB1-8E9E-42AE-996B-A96A6DD0F469" refCount="1"/>
+        <page ID="FCB3726D-0377-4903-A3B8-68EC63418294" refCount="1"/>
+        <page ID="7EB3CA21-9EE8-4F73-AE1F-19E3823840A7" refCount="1"/>
+        <page ID="DC94A9A6-E875-45E0-848D-B1213BDEB55E" refCount="1"/>
+        <page ID="DFC0595A-AEDB-4E78-8E20-F892D203E331" refCount="1"/>
+        <page ID="D5C09F56-0F35-4B6D-94E2-3A7625FE0C15" refCount="1"/>
+        <page ID="10F24155-F979-4F6F-80F5-973C418F8FBB" refCount="1"/>
+        <page ID="0A83665F-8E79-47DD-AD5A-5C7AFD19D328" refCount="1"/>
+        <page ID="820A728A-31CD-43EE-9EAC-381DA4FB8B24" refCount="1"/>
+        <page ID="26F436D8-D8F2-44F9-B2C0-6CE6E03AE01E" refCount="1"/>
+        <page ID="DFDE6E28-9926-41EE-93F4-1E79851BCC5D" refCount="1"/>
+        <page ID="4F2E09C5-CA63-4E3A-AE61-1853B8429A00" refCount="1"/>
+        <page ID="E5BE3C48-1D2A-43D8-9EA0-C5F67A9CB21B" refCount="1"/>
+        <page ID="B87938C7-B432-4A07-AD73-3A3054FB481D" refCount="1"/>
+        <page ID="8C21ED12-40FA-440D-9C23-223ACF880D43" refCount="1"/>
+        <page ID="BC05AF18-BCD8-4F63-8591-5FF7EA6001CB" refCount="1"/>
+      </refPages>
+      <images>
+        <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+      </images>
+    </master>
+  </masters>
+  <images>
+    <image key="1897BA3139FFBEB6F5E9ECA5352C60A5.png"/>
+    <image key="0156C11AC117F811C1FF78AE72E9FBB1.svg"/>
+    <image key="615B15167CD323955BBB9F6388E912C8.svg"/>
+    <image key="24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg"/>
+    <image key="551060416EB94163FAC0B78B8533586E.svg"/>
+    <image key="A4B149ECD5D3E3D14B03B773B9046E9D.png"/>
+    <image key="71E72E708716630A1ADD6F4E51FD7739.jpg"/>
+    <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+    <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+    <image key="A4119464B27904BB6FD0CFE2DF107D3E.svg"/>
+    <image key="91852B86E51F760894554368302F9800.svg"/>
+    <image key="580C991B7C917DA9D65FD2306B67F38F.svg"/>
+    <image key="D5D3464451B9BAF55DF14D8D7B1708D7.png"/>
+    <image key="436D825518C0D75E37EA705025E4825E.svg"/>
+    <image key="2EB38A772225BC5EE0F8BE6D66129A4E.svg"/>
+    <image key="075A4B9369EA18AF2016B6E029113F5D.svg"/>
+    <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+    <image key="03D8B8681B566FCD80160E878EC374B8.png"/>
+    <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+    <image key="8C2321A4F44157FF507CCDFBAE78BC8D.svg"/>
+    <image key="8FF8BA6C0EDBCFC18155A1C61156A8B0.png"/>
+    <image key="FF13A2B19CD46C223D9946FB8B96A233.svg"/>
+    <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+    <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+    <image key="61BD02E428D58BDC0C6C834D31DCB6EF.png"/>
+    <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+    <image key="6D635DE2A139BC34418F5B6EF9A13941.jpg"/>
+    <image key="B487C7AB8A144BCF44AC6C72E13ADCF6.png"/>
+    <image key="9079F58C421DAE3BC74230832347073C.svg"/>
+    <image key="1CCB6D309D01F2C1E3DF43BE84948844.svg"/>
+    <image key="5F6EBF19F601F827DCABF6CF0C739C0A.svg"/>
+    <image key="803BB080D496557E1571D4C1BD65E983.png"/>
+  </images>
+</project>
